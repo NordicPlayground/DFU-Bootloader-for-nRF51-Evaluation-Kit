@@ -1,7 +1,8 @@
 DFU-Bootloader-for-nRF51-Evaluation-Kit
 =======================================
 
-Modified DFU bootloader for the evaluation kit (PCA10001, PCA10004, etc)
+Modified DFU bootloader for the evaluation kit (PCA10001, PCA10004, etc).
+
 Hold button 1 + reset to enter bootloader mode. 
 
 Requirements
